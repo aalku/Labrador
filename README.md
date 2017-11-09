@@ -6,6 +6,8 @@ https://www.crowdsupply.com/espotek/labrador
 
 # Build Instructions
 I use Qt Creator to build the software interface.
+https://www.qt.io/download-open-source/
+
 Open Desktop Interface/Labrador.pro, then Clean All -> Run qmake -> Build All.
 Others have built it manually, though.
 Just make sure you have Qt 5.6 or later.
